@@ -12,7 +12,7 @@ Define infrastructure as code to increase operator productivity and transparency
 
 
 
-\[INSERT DIAGRAM HERE\] 
+![Infrastructure as Code - deploy to multiple clouds](.gitbook/assets/image%20%281%29.png)
 {% endtab %}
 
 {% tab title="Collaborate & Share" %}
