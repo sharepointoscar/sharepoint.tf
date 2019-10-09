@@ -1,10 +1,17 @@
 ---
 description: >-
-  Use Terraform to provision your entire SharePoint Farm, deploy to any cloud in
-  minutes
+  We've all heard of DevOps, and Infrastructure as Code is at the core of DevOps
+  practices.  This site helps you understand these concepts and how you can
+  apply them to building out SharePoint farms.
 ---
 
 # Overview
+
+### Using Infrastructure as Code
+
+Your goal should be to automate the entire provisioning and configuration management of SharePoint Farms.  This will entail using non-Microsoft tooling.  [HashiCorp Terraform](https://www.terraform.io/) is a leading tool to help provision infrastructure in AWS and Azure as well as Google Cloud.
+
+
 
 {% tabs %}
 {% tab title="Infrastructure as Code" %}
@@ -12,7 +19,7 @@ Define infrastructure as code to increase operator productivity and transparency
 
 
 
-![Infrastructure as Code - deploy to multiple clouds](.gitbook/assets/image%20%281%29.png)
+![Infrastructure as Code - deploy to multiple clouds](.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 
 {% tab title="Collaborate & Share" %}

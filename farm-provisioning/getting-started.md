@@ -1,4 +1,6 @@
-# Getting Started
+---
+description: Here's how to get started provisioning SharePoint Farms using IaC
+---
 
-Rich content coming soon!
+# Getting Started
 
